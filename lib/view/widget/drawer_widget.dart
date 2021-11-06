@@ -31,7 +31,7 @@ class DrawerWidget extends StatelessWidget {
           SideMenuItem(
             title: "My Courses",
             priority: 1,
-            icon: Icons.home_work,
+            icon: Icons.local_fire_department,
             onTap: () {},
           ),
           SideMenuItem(
